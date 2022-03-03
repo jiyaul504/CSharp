@@ -1,0 +1,8 @@
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\bin\Debug\GenericList.exe
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\bin\Debug\GenericList.pdb
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\obj\Debug\GenericList.csproj.SuggestedBindingRedirects.cache
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\obj\Debug\GenericList.exe
+C:\Users\JIYAUL\OneDrive\Desktop\Program\Collection\GenericList\obj\Debug\GenericList.pdb

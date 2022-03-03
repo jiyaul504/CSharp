@@ -1,0 +1,4 @@
+Class:- Class is a template/blue-print for real-world entities
+ (i) Class is a user-defined data-type
+ (ii) Class is keyword
+ (ii) Class having , Method, Artibutes

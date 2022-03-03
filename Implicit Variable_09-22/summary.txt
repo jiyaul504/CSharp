@@ -1,0 +1,8 @@
+Implicit Variable:- We can assign the value of smaller data type to larger data type
+ example: byte b=10
+          float f=b; //f=10
+
+
+Explicit Varaible:-
+With this we can convert the value larger data type to smaller datatypes
+Data may or may not lost lose

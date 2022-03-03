@@ -1,0 +1,6 @@
+Keyword: Keyword reserved words are called "keywords".
+keywords cannot be used as an identifier Example 
+name of a variable, class, interface, etc
+ In c# has 77 reserved Keywords
+like: abstract, if, else, for ,break, while
+ 
